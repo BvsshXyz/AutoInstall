@@ -6,7 +6,7 @@ BUTUH LICENSE/PW CHAT TELE GUA
 ## Comand Run Script
 
 ```
-bash <(curl https://raw.githubusercontent.com/BvsshXyz/AutoInstall/main/install.sh)</code><pre>
+bash <(curl https://raw.githubusercontent.com/BvsshXyz/AutoInstall/main/install.sh)
 ```
 
 ## COMMAND REBUILD
